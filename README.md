@@ -1,16 +1,3 @@
-# final_project_api
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We have developed an app designed to visualize firm data on a map, and this app offers several additional features. 
+We address challenges using drones and thermal cameras, providing an effective solution.
+This solution not only helps save human lives but also represents a significant time-saving innovation in wildfire management.
